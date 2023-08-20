@@ -31,6 +31,7 @@ To run the project and perform the analysis:
 1. Clone this repository to your local machine.
 2. Install the required dependencies (see [Dependencies](#dependencies)).
 3. Ensure that the `dataset_orders.csv` file is in the project directory or adjust the file path accordingly.
+(For the security purposes the dataset is not available to download, you can use your own data)
 4. Run the `EDA_class.py` script.
 
 ## Dependencies
